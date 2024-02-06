@@ -1789,7 +1789,7 @@
     (property "Reference" "R22" (at 170.18 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7k" (at 170.18 81.28 0)
+    (property "Value" "3.9k" (at 170.18 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (at 165.862 80.01 90)
