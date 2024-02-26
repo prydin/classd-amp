@@ -3563,11 +3563,11 @@
     (pin "1" (uuid 7f8a08f4-2676-45f1-9d96-70375c9c9adb))
     (pin "2" (uuid 6b71e121-d221-4cbf-a380-4c73a1d9f0ce))
     (pin "3" (uuid ff7bad0e-f09d-4eaf-be14-4a16194384d0))
-    (pin "5" (uuid e1812c6b-2408-4fdb-a628-e5a3dafa968b))
-    (pin "6" (uuid a63ea89e-be97-4819-8aec-0db9dd32bf03))
-    (pin "7" (uuid dc3313ae-d1d2-4a63-a9c4-a528c8c353fe))
-    (pin "4" (uuid 4e70ba3f-7bdd-4b7d-8aaf-760945ade4ae))
-    (pin "8" (uuid 2cd8b988-fca4-4f96-9d3f-4ec3a8129279))
+    (pin "5" (uuid e1812c6b-2408-4fdb-a628-e5a3dafa968c))
+    (pin "6" (uuid a63ea89e-be97-4819-8aec-0db9dd32bf04))
+    (pin "7" (uuid dc3313ae-d1d2-4a63-a9c4-a528c8c353ff))
+    (pin "4" (uuid 4e70ba3f-7bdd-4b7d-8aaf-760945ade4af))
+    (pin "8" (uuid 2cd8b988-fca4-4f96-9d3f-4ec3a812927a))
     (instances
       (project "classd-amp"
         (path "/4342a3a3-4383-4661-90ac-821979f46c8c/3b3caeaf-3878-4281-86ae-73a7190e5fd4"
