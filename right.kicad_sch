@@ -5452,7 +5452,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 102.87 144.145 0)
 			(effects
 				(font
@@ -5611,7 +5611,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 64.77 63.5 0)
 			(effects
 				(font
@@ -5907,7 +5907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp"
 			(at 107.95 118.745 0)
 			(effects
 				(font
@@ -6112,7 +6112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 185.42 66.04 0)
 			(effects
 				(font
@@ -7992,7 +7992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp"
 			(at 81.28 41.91 0)
 			(effects
 				(font
@@ -8060,7 +8060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 120.65 66.04 0)
 			(effects
 				(font
@@ -8214,7 +8214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp"
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -8855,7 +8855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 66.04 110.49 0)
 			(effects
 				(font
@@ -9011,7 +9011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 185.42 132.08 0)
 			(effects
 				(font
@@ -10344,7 +10344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 149.86 68.58 0)
 			(effects
 				(font
@@ -11109,7 +11109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp"
 			(at 107.95 102.87 0)
 			(effects
 				(font

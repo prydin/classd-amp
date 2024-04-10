@@ -6321,7 +6321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 240.03 43.18 0)
 			(effects
 				(font
@@ -6889,7 +6889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 234.95 137.16 0)
 			(effects
 				(font
@@ -7076,7 +7076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 218.44 82.55 0)
 			(effects
 				(font
@@ -7647,7 +7647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 240.03 82.55 0)
 			(effects
 				(font
@@ -8227,7 +8227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 264.16 43.18 0)
 			(effects
 				(font
@@ -9087,7 +9087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 177.8 45.72 0)
 			(effects
 				(font
@@ -9695,7 +9695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Package_DIP_AKL:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 218.44 43.18 0)
 			(effects
 				(font
