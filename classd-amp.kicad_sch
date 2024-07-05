@@ -581,44 +581,6 @@
 		)
 	)
 	(sheet
-		(at 167.64 83.82)
-		(size 110.49 69.85)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "20bf2a2d-17c0-47aa-a67f-2d21b1e12aea")
-		(property "Sheetname" "Right Channel"
-			(at 167.64 83.1084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "right.kicad_sch"
-			(at 167.64 154.2546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "classd-amp"
-				(path "/4342a3a3-4383-4661-90ac-821979f46c8c"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 49.53 107.95)
 		(size 110.49 69.85)
 		(fields_autoplaced yes)
